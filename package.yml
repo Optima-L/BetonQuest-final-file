@@ -47,7 +47,7 @@ events:
   tag_complete: tag add tag_complete
   
 conditions: 
-  WARRIOR: mmoclass WARRIOR
+  WARRIOR: mmoclass WARRIOR #Условие что игрок класса воина
   has_tag: tag questStart 
   has_tag_complete: tag tag_complete
 
